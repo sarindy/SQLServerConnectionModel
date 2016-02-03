@@ -7,10 +7,6 @@ Public Class DBMgr
     Public Property GetConn() As SqlConnection
         Get
             Return cnn
-           
-
-
-
         End Get
         Set(ByVal value As SqlConnection)
             cnn = value
