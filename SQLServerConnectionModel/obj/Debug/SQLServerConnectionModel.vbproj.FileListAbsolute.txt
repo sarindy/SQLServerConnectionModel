@@ -1,0 +1,9 @@
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\bin\Debug\SQLServerConnectionModel.exe.config
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\bin\Debug\SQLServerConnectionModel.exe
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\bin\Debug\SQLServerConnectionModel.pdb
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\bin\Debug\SQLServerConnectionModel.xml
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\obj\Debug\SQLServerConnectionModel.Resources.resources
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\obj\Debug\SQLServerConnectionModel.vbproj.GenerateResource.Cache
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\obj\Debug\SQLServerConnectionModel.exe
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\obj\Debug\SQLServerConnectionModel.xml
+C:\Users\Sarindy\Documents\DotNetProject\SQLServerConnectionModel\SQLServerConnectionModel\obj\Debug\SQLServerConnectionModel.pdb
